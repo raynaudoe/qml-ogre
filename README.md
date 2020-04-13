@@ -15,7 +15,7 @@ Features
 Requirements
 ------------
 
-* Ogre 1.8
+* Ogre 1.10.12
 * Qt 5
 
 Documentation
